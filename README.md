@@ -42,8 +42,8 @@ Instructions:
                                                                                                                         
 ### أدوات التخفي
 
--                                                                                                                        (https://github.com/Und3rf10w/kali-anonsurf)
-                                                                                                                            (https://github.com/trimstray/multitor)
+(https://github.com/Und3rf10w/kali-anonsurf)
+(https://github.com/trimstray/multitor)
 ### أدوات جمع المعلومات
  [Network Map (nmap)] (https://github.com/nmap/nmap)
                                                                                                                       [Dracnmap] (https://github.com/Screetsec/Dracnmap)
