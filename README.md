@@ -1,10 +1,16 @@
 Directions:
+
 #Decompress files: tar xvf filename.zip 
+
 #Run as root: sudo su 
+
 #Allow your system to read files: (chmod +x install.sh)
 (chmod +x hackingtool.py)
+
 #Install packages:./install.sh
+
 #Run tool :./hackingtool.py 
+
 @enjoy@
 
 # قائمة الاداوات 
