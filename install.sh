@@ -68,7 +68,7 @@ bin_dir="/usr/bin"
 if [[ $choice =~ ^[1-2]+$ ]]; then
     echo -e "${YELLOW}[*] Checking Internet Connection ..${NC}"
     echo "";
-    if curl -s -m 10 https://www.google.com > /dev/null || curl -s -m 10 https://www.github.com > /dev/null; then
+    if curl -s -m 10 https://www.google.com > /dev/null || curl -s -m 10 https://github.com/Anon-G-Fox/Tools-Anon.git > /dev/null; then
         echo -e "${GREEN}[✔] Internet connection is OK [✔]${NC}"
         echo "";
         echo -e "${YELLOW}[*] Updating package list ..."
