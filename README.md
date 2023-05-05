@@ -21,9 +21,9 @@ Instructions:
   
                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                         
-If you want to download all tool packages, choose --> (@) 
+So if u want to download all tool packages!! choose --> (@) 
                         
-and if you want to download certain tools when you work in the tool, choos --> (2)  
+and if u want to download certain tools when you work in the tool!! choos --> (2)  
 
 ******************************************************************************************************************************************************************
 @enjoy@ ^_^
