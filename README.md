@@ -18,6 +18,7 @@ Instructions:
  [1] Manual
                         
   [2] Default
+  
                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                         
 (If you want to download all tool packages, choose (@) 
