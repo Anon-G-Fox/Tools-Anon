@@ -89,7 +89,7 @@ if __name__ == "__main__":
                         [1] Manual 
                         [2] Default
                 """)
-                choice = input("Z4nzu =>> ").strip()
+                choice = input("Anon =>> ").strip()
 
                 if choice == "1":
                     inpath = input("Enter Path (with Directory Name) >> ").strip()
