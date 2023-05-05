@@ -12,10 +12,12 @@ Instructions:
 #Run tool : ./hackingtool.py 
 
 *!* if  appears u to this matter : [@] Set Path (All your tools will be installed in that directory)
+
                          [1] Manual
                         
                          [2] Default
                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                        
                          (If you want to download all tool packages, choose (@) 
                         
 and if you want to download certain tools when you work in the tool, choos (2)  
