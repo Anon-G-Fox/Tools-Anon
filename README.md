@@ -1,4 +1,4 @@
-Directions:
+Instructions:
 
 #Decompress files: tar xvf filename.zip 
 
