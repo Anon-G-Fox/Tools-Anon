@@ -32,7 +32,7 @@ esac
 
 echo -e "${COLOR}"
 echo ""
-echo "                                                                                             ";
+cho "                                                                                             ";
 echo "░█████╗░███╗░░██╗░█████╗░███╗░░██╗██╗░░░██╗███╗░░░███╗░█████╗░██╗░░░██╗░██████╗ ";
 echo "██╔══██╗████╗░██║██╔══██╗████╗░██║╚██╗░██╔╝████╗░████║██╔══██╗██║░░░██║██╔════╝";
 echo "███████║██╔██╗██║██║░░██║██╔██╗██║░╚████╔╝░██╔████╔██║██║░░██║██║░░░██║╚█████╗░";
@@ -47,14 +47,13 @@ echo "██║░╚═══██╗██║░░░░░██╔══�
 echo "██║██████╔╝███████╗██║░░██║██║░╚═╝░██║██║╚█████╔╝";
 echo "╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░╚════╝░";
 echo "                                                            ";
-echo "                                                              ";
 
-echo -e "${RED}                                    https://www.facebook.com/Anonymos.islamic ${NC}"
-echo -e "${BLUE}                                     [!] This Tool Must Run As ROOT [!]${NC}\n"
+echo -e "${BLUE}                                    https://www.facebook.com/Anonymos.islamic ${NC}"
+echo -e "${RED}                                     [!] This Tool Must Run As ROOT [!]${NC}\n"
 echo -e "${CYAN}              Select Best Option : \n"
-echo -e "${GREEN}              [1] Kali Linux / Parrot-Os (apt)"
+echo -e "${WHITE}              [1] Kali Linux / Parrot-Os (apt)"
 echo -e "${WHITE}              [2] Arch Linux (pacman)" # added arch linux support because of feature request #231
-echo -e "${RED}                [0] Exit "
+echo -e "${WHITE}              [0] Exit "
 
 echo -e "${COLOR}┌──($USER㉿$HOST)-[$(pwd)]"
 read -p "└─$>>" choice
@@ -68,7 +67,7 @@ bin_dir="/usr/bin"
 if [[ $choice =~ ^[1-2]+$ ]]; then
     echo -e "${YELLOW}[*] Checking Internet Connection ..${NC}"
     echo "";
-    if curl -s -m 10 https://www.google.com > /dev/null || curl -s -m 10 https://github.com/Anon-G-Fox/Tools-Anon.git > /dev/null; then
+    if curl -s -m 10 https://www.google.com > /dev/null || curl -s -m 10 https://www.github.com > /dev/null; then
         echo -e "${GREEN}[✔] Internet connection is OK [✔]${NC}"
         echo "";
         echo -e "${YELLOW}[*] Updating package list ..."
@@ -97,7 +96,7 @@ if [[ $choice =~ ^[1-2]+$ ]]; then
         fi
         echo "";
         echo -e "${YELLOW}[✔] Downloading hackingtool...${NC}"
-        if sudo git clone https://github.com/Anon-G-Fox/Tools.Anon.git $install_dir; then
+        if sudo git clone https://github.com/Anon-G-Fox/Tools-Anon.git $install_dir; then
             # Install virtual environment
             echo -e "${YELLOW}[*] Installing Virtual Environment...${NC}"
             if [[ $choice == 1 ]]; then
@@ -149,7 +148,7 @@ if [[ $choice =~ ^[1-2]+$ ]]; then
         echo "";
         echo -e  "${ORANGE}[+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
         echo     "[+]                                                             [+]"
-        echo -e  "${ORANGE}[+]     ✔✔✔ Now Just Type In Terminal (./hackingtool.py) ✔✔✔      [+]"
+        echo -e  "${ORANGE}[+]     ✔✔✔ Now Just Type In Terminal (hackingtool) ✔✔✔      [+]"
         echo     "[+]                                                             [+]"
         echo -e  "${ORANGE}[+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
     else
