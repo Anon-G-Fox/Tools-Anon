@@ -21,7 +21,7 @@ Instructions:
   
                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                         
-(If you want to download all tool packages, choose --> (@) 
+If you want to download all tool packages, choose --> (@) 
                         
 and if you want to download certain tools when you work in the tool, choos --> (2)  
 
