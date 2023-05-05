@@ -1,15 +1,15 @@
 Instructions:
 
-#Decompress files: tar xvf filename.zip 
+1 #Run terminal as root: sudo su  
 ******************************************************************************************************************************************************************
-#Run as root: sudo su 
+2 #Decompress files: tar xvf filename.zip
 ******************************************************************************************************************************************************************
-#Allow your system to read files: (chmod +x install.sh)
+3 #Allow your system to read files: (chmod +x install.sh)
 (chmod +x hackingtool.py)
 ******************************************************************************************************************************************************************
-#Install packages: ./install.sh
+4 #Install packages: ./install.sh
 ******************************************************************************************************************************************************************
-#Run tool : ./hackingtool.py 
+5 #Run tool : ./hackingtool.py 
 
 *!!!* if  appears u to this matter -->
 
@@ -21,7 +21,7 @@ Instructions:
   
                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                         
-So if u want to download all tool packages!! choose --> (@) 
+*So if u want to download all tool packages!! choose --> (@) 
                         
 and if u want to download certain tools when you work in the tool!! choos --> (2)  
 
