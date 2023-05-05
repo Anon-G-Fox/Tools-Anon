@@ -14,7 +14,7 @@ Instructions:
 @enjoy@
 
 # قائمة الاداوات 
-- [أدوات إخفاء مجهول] (# أدوات إخفاء مجهول)
+- [أدوات التخفي]
 - [أدوات جمع المعلومات] (# أدوات جمع المعلومات)
                                                                                                                              [Wordlist Generator] (wordlist-generator)
 - [أدوات هجوم لاسلكي] (# أدوات هجوم لاسلكي)
@@ -35,7 +35,7 @@ Instructions:
      - [هجوم IDN] (# idn-homograph-attack)
      - [أدوات التحقق من البريد الإلكتروني]
                                                                                                                         [SocialMedia Finder] (# socialmedia-finder)
-### أدوات إخفاء التخفي
+### أدوات التخفي
 - [تصفح مجهول] (https://github.com/Und3rf10w/kali-anonsurf)
 - [مولتيتور] (https://github.com/trimstray/multitor)
 ### أدوات جمع المعلومات
