@@ -90,7 +90,7 @@ if [[ $choice =~ ^[1-2]+$ ]]; then
         fi
         echo "";
         echo -e "${YELLOW}[✔] Downloading hackingtool...${NC}"
-        if sudo git clone https://github.com/Z4nzu/hackingtool.git $install_dir; then
+        if sudo git clone git@github.com:WEMP/Tools-Anon.git $install_dir; then
             # Install virtual environment
             echo -e "${YELLOW}[*] Installing Virtual Environment...${NC}"
             if [[ $choice == 1 ]]; then
