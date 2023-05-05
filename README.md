@@ -43,7 +43,6 @@ Instructions:
 ### أدوات التخفي
 
 -                                                                                                                        (https://github.com/Und3rf10w/kali-anonsurf)
--                                                                                                                   
                                                                                                                             (https://github.com/trimstray/multitor)
 ### أدوات جمع المعلومات
  [Network Map (nmap)] (https://github.com/nmap/nmap)
@@ -61,12 +60,13 @@ Instructions:
                                                                                                                        [Breacher] (https://github.com/s0md3v/Breacher)
 - [قائمة كلمات المرور (1.4 مليار كلمة مرور)] (https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
 ### أدوات الهجوم اللاسلكي
--                                                                                                              [WiFi-Pumpkin] (https://github.com/P0cL4bs/wifipumpkin3)
--                                                                                                                       [pixiewps] (https://github.com/wiire/pixiewps)
--                                                                                   [Bluetooth Honeypot GUI Framework] (https://github.com/andrewmichaelsmith/bluepot)
--                                                                                                                 [Fluxion] (https://github.com/thehackingsage/Fluxion)
--                                                                                                            [Wifiphisher] (https://github.com/wifiphisher/wifiphisher)
--                                                                                                                          [Wifite] (https://github.com/derv82/wifite2)
+
+[WiFi-Pumpkin] (https://github.com/P0cL4bs/wifipumpkin3)
+                                                                                                                       [pixiewps] (https://github.com/wiire/pixiewps)
+                                                                                   [Bluetooth Honeypot GUI Framework] (https://github.com/andrewmichaelsmith/bluepot)
+                                                                                                                 [Fluxion] (https://github.com/thehackingsage/Fluxion)
+                                                                                                            [Wifiphisher] (https://github.com/wifiphisher/wifiphisher)
+                                                                                                                          [Wifite] (https://github.com/derv82/wifite2)
 ### أدوات حقن SQL
 - [أداة Sqlmap] (https://github.com/sqlmapproject/sqlmap)
                                                                                                                        [NoSqlMap] (https://github.com/codingo/NoSQLMap)
