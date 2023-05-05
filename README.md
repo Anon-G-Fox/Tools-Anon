@@ -44,7 +44,7 @@ and if u want to download certain tools when you work in the tool!! choos --> (2
 - [أدوات الهندسة العكسية]
 - [أدوات هجوم DDOS] 
                                                                                                                                    [Remote Administrator Tools (RAT)]
-                                                                                                                              [XSS Attack Tools] (# xss-attack-tools)
+                                                                                                                              [XSS Attack Tools] 
 - [أدوات Steganograhy]
                                                                                                                                              [SocialMedia Bruteforce]
  - [أدوات اختراق هاتف Android] 
