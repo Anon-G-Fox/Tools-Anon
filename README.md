@@ -16,7 +16,7 @@ Instructions:
 # قائمة الاداوات 
 - [أدوات إخفاء مجهول] (# أدوات إخفاء مجهول)
 - [أدوات جمع المعلومات] (# أدوات جمع المعلومات)
-- [Wordlist Generator] (# wordlist-generator)
+                                                                                                                             [Wordlist Generator] (wordlist-generator)
 - [أدوات هجوم لاسلكي] (# أدوات هجوم لاسلكي)
 - [أدوات حقن SQL] (# أدوات حقن SQL)
 - [أدوات هجوم التصيد] (# أدوات هجوم التصيد)
@@ -27,37 +27,28 @@ Instructions:
 - [إطار عمل استغلال] (# إطار عمل استغلال)
 - [أدوات الهندسة العكسية] (# أدوات هندسة عكسية)
 - [أدوات هجوم DDOS] (# أدوات هجوم ddos)
-- [Remote Administrator Tools (RAT)] (# remote-administrator-tools - rat-)
-- [XSS Attack Tools] (# xss-attack-tools)
-- [أدوات Steganograhy] (# أدوات steganograhy)
-- [أدوات أخرى] (# أدوات أخرى)
-     - [SocialMedia Bruteforce] (# socialmedia-bruteforce)
-     - [أدوات اختراق Android] (# أدوات اختراق android)
-     - [هجوم هوموجراف IDN] (# idn-homograph-attack)
-     - [أدوات التحقق من البريد الإلكتروني] (# أدوات التحقق من البريد الإلكتروني)
-     - [أدوات تكسير التجزئة] (# أدوات تكسير التجزئة)
-     - [إلغاء مصادقة Wifi] (# wifi-deauthenticate)
-     - [SocialMedia Finder] (# socialmedia-finder)
-     - [حاقن الحمولة] (# حاقن الحمولة)
-     - [زحف الويب] (# زحف الويب)
-     - [أدوات المزج] (# أدوات خلط)
-
-
-### أدوات إخفاء مجهول
+                                                                                               [Remote Administrator Tools (RAT)] (# remote-administrator-tools - rat-)
+                                                                                                                              [XSS Attack Tools] (# xss-attack-tools)
+- [أدوات Steganograhy]
+                                                                                                                  [SocialMedia Bruteforce] (# socialmedia-bruteforce)
+     - [أدوات اختراق هاتف Android] 
+     - [هجوم IDN] (# idn-homograph-attack)
+     - [أدوات التحقق من البريد الإلكتروني]
+                                                                                                                        [SocialMedia Finder] (# socialmedia-finder)
+### أدوات إخفاء التخفي
 - [تصفح مجهول] (https://github.com/Und3rf10w/kali-anonsurf)
 - [مولتيتور] (https://github.com/trimstray/multitor)
 ### أدوات جمع المعلومات
-- [Network Map (nmap)] (https://github.com/nmap/nmap)
+- [Network Map (nmap)] (https://github.com/nmap/nmap) 
 - [Dracnmap] (https://github.com/Screetsec/Dracnmap)
-- فحص المنفذ
-- المضيف إلى IP
+
+
 - [Xerosploit] (https://github.com/LionSec/xerosploit)
-- [RED HAWK (All In One Scanning)] (https://github.com/Tuhinshubhra/RED_HAWK)
-- [ReconSpider (لجميع عمليات المسح)] (https://github.com/bhavsec/reconspider)
-- IsItDown (تحقق من موقع الويب أسفل / أعلى)
+  [RED HAWK (All In One Scanning)] (https://github.com/Tuhinshubhra/RED_HAWK)
+  [ReconSpider (لجميع عمليات المسح)] (https://github.com/bhavsec/reconspider)
 - [Infoga - Email OSINT] (https://github.com/m4ll0k/Infoga)
 - [ReconDog] (https://github.com/s0md3v/ReconDog)
-- [مهاجم] (https://github.com/s0md3v/Striker)
+- [Strikerps://github.com/s0md3v/Striker)
 - [SecretFinder (مثل API وغيرها)] (https://github.com/m4ll0k/SecretFinder)
 - [البحث عن المعلومات باستخدام Shodan] (https://github.com/m4ll0k/Shodanfy.py)
 - [Port Scanner - rang3r (Python 2.7)] (https://github.com/floriankunushevci/rang3r)
