@@ -46,7 +46,7 @@ Instructions:
 -                                                                                                                   
                                                                                                                             (https://github.com/trimstray/multitor)
 ### أدوات جمع المعلومات
-                                                                                                                     [Network Map (nmap)] (https://github.com/nmap/nmap) 
+ [Network Map (nmap)] (https://github.com/nmap/nmap)
                                                                                                                       [Dracnmap] (https://github.com/Screetsec/Dracnmap)
                                                                                                                     [Xerosploit] (https://github.com/LionSec/xerosploit)
                                                                                              [RED HAWK (All In One Scanning)] (https://github.com/Tuhinshubhra/RED_HAWK)
@@ -76,23 +76,26 @@ Instructions:
                                                          [Leviathan - مجموعة أدوات التدقيق الجماعي واسعة النطاق] (https://github.com/leviathan-framework/leviathan)
                                                                                                                       - [SQLScan] (https://github.com/Cvar1984/sqlscan)
 ### أدوات هجوم التصيد
-                                   -                                                                [Setoolkit] (https://github.com/trustedsec/social-engineer-toolkit)
-                                   -                                                                [SocialFish] (https://github.com/UndeadSec/SocialFish)
-                                   -                                                                       [HiddenEye] (https://github.com/DarkSecDevelopers/HiddenEye)
-                                   -                                                                       [Evilginx2] (https://github.com/kgretzky/evilginx2)
-                                   -                                    [I-See_You (احصل على الموقع باستخدام هجوم التصيد)] (https://github.com/Viralmaniar/I-See-You)
-                                   -                                                 [SayCheese (Grab target's Webcam Shots)] (https://github.com/hangetzzu/saycheese)
-                                   -                                                                         [QR Code Jacking] (https://github.com/cryptedwolf/ohmyqr)
-                                   -                                                                        [ShellPhish] (https://github.com/An0nUD4Y/shellphish)
-                                   -                                                                        [BlackPhish] (https://github.com/iinc0gnit0/BlackPhish)
+
+
+[SocialFish] (https://github.com/UndeadSec/SocialFish)
+                                   
+[HiddenEye] (https://github.com/DarkSecDevelopers/HiddenEye)
+                                                                                                          [Evilginx2] (https://github.com/kgretzky/evilginx2)
+                                                                    [I-See_You (احصل على الموقع باستخدام هجوم التصيد)] (https://github.com/Viralmaniar/I-See-You)
+                                                                                   [SayCheese (Grab target's Webcam Shots)] (https://github.com/hangetzzu/saycheese)
+                                                                                                            [QR Code Jacking] (https://github.com/cryptedwolf/ohmyqr)
+                                                                                                           [ShellPhish] (https://github.com/An0nUD4Y/shellphish)
+                                                                                                       [BlackPhish] (https://github.com/iinc0gnit0/BlackPhish)
 ### أدوات هجوم الويب
-                                   -                                                                          [Web2Attack] (https://github.com/santatic/web2attack)
-                                   -                                                                          [SubDomain Finder] (https://github.com/aboul3la/Sublist3r)
-                                   -                                                                              [CheckURL] (https://github.com/UndeadSec/checkURL)
-                                   -                                                      [Blazy (Find ClickJacking أيضًا)] (https://github.com/UltimateHackers/Blazy)
-                                   -                                                                        Sub-Domain TakeOver] (https://github.com/m4ll0k/takeover)
-                                   -                                                                              [Dirb] (https://gitlab.com/kalilinux/packages/dirb)
-### أدوات ما بعد الاستغلال                                   
-                                                                                              [Vegile - Ghost In The Shell] (https://github.com/Screetsec/Vegile)
+[Web2Attack] (https://github.com/santatic/web2attack)
+                                                                                                    [SubDomain Finder] (https://github.com/aboul3la/Sublist3r)
+                                                                                                                [CheckURL] (https://github.com/UndeadSec/checkURL)
+                                                                                         [Blazy (Find ClickJacking أيضًا)] (https://github.com/UltimateHackers/Blazy)
+                                                                                                         Sub-Domain TakeOver] (https://github.com/m4ll0k/takeover)
+                                                                                                               [Dirb] (https://gitlab.com/kalilinux/packages/dirb)
+                                                                                                               
+### أدوات ما بعد الاستغلال
+[Vegile - Ghost In The Shell] (https://github.com/Screetsec/Vegile)
                                                                                               [Chrome Keylogger] (https://github.com/UndeadSec/HeraKeylogger)
                                                                                                                @enjoy@
