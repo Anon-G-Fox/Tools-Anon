@@ -16,7 +16,7 @@ Instructions:
 # قائمة الاداوات 
 - [أدوات التخفي]
 - [أدوات جمع المعلومات] (# أدوات جمع المعلومات)
-                                                                                                                             [Wordlist Generator] (wordlist-generator)
+                                                                                                                                                  [Wordlist Generator] 
 - [أدوات هجوم لاسلكي] 
 - [أدوات حقن SQL] 
 - [أدوات هجوم التصيد] 
