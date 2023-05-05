@@ -174,3 +174,4 @@ class HackingToolsCollection(object):
             print_exc()
             input("\n\nPress ENTER to continue:").strip()
         return self.show_options(parent = parent)
+ 
